@@ -1,0 +1,36 @@
+.container-fluid .navbar-nav{
+    margin-left: 290px;
+}
+.container-fluid .navbar-nav .nav-item{
+    margin: 15px;
+}
+.container-fluid img{
+    margin-left:50px;
+}
+container-fluid{
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+container{
+    margin-top: 0px;
+}
+.col-auto img{
+    margin-top: -520px;
+    margin-left: 700px;
+}
+.col h4{
+    margin-top: 90px;
+    margin-left: 230px;
+}
+.col img{
+    height: 100px;
+    margin-left: 330px;
+}
+.col p{
+    margin-left: 140px;
+}
+.map button {
+    margin-top: 40px;
+    margin-left: 600px;
+}
